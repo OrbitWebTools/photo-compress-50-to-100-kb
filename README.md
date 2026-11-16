@@ -2,7 +2,7 @@
 
 A lightning-fast, 100% client-side web application designed to compress JPG, PNG, and WebP images precisely between **50 KB and 100 KB** directly in your browser without uploading your photos to any external server.
 
-🔗 **Live Website:** [https://github.com/OrbitWebTools/photo-compress-50-to-100-kb](https://github.com/OrbitWebTools/photo-compress-50-to-100-kb)
+🔗 **Live Website:** https://orbitwebtools.github.io/photo-compress-50-to-100-kb/
 
 ---
 
